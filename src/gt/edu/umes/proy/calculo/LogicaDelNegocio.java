@@ -2,7 +2,7 @@ package gt.edu.umes.proy.calculo;
 
 public class LogicaDelNegocio {
 public static final int Cant_Parametro= 5;
-public static final int Dias_Por_Mes = 30;
+public static final int Dias_Por_Mes = 31;
 public static final int Dias_Semana = 7;
 public static final int Segundos_Por_Dia = 86400;
 public static final int Segundos_Por_Horas = 3600;
